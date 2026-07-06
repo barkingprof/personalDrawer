@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="eGc9N8yqzYhzGgn2Sq75">
-    <mxGraphModel dx="2285" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2033" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eD5rRKDE6UyOsphLuvNW-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="" vertex="1">
-          <mxGeometry height="198.71" width="357.01" x="442.99" y="411.29" as="geometry" />
+          <mxGeometry height="278.71" width="357.01" x="442.99" y="411.29" as="geometry" />
         </mxCell>
         <mxCell id="hzDErF2p9qC1wll7qmAn-1" edge="1" parent="1" source="hzDErF2p9qC1wll7qmAn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="hzDErF2p9qC1wll7qmAn-4" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -31,13 +31,11 @@
         <mxCell id="hzDErF2p9qC1wll7qmAn-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="测试分析 V2，V3，..." vertex="1">
           <mxGeometry height="35.80645161290323" width="99.40828402366864" x="136.4852071005917" y="411.2903225806452" as="geometry" />
         </mxCell>
-        <mxCell id="eD5rRKDE6UyOsphLuvNW-5" edge="1" parent="1" source="hzDErF2p9qC1wll7qmAn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="107.49112426035504" y="327.741935483871" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="hzDErF2p9qC1wll7qmAn-9" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=#CCE5FF;" value="AI:&amp;nbsp;&lt;br&gt;1.文档幻觉评估&lt;div&gt;&lt;span style=&quot;background-color: light-dark(rgb(204, 229, 255), rgb(24, 46, 68)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2. 结合知识库生成测分&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="210.47" x="59.53" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="hzDErF2p9qC1wll7qmAn-9" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=#CCE5FF;" value="AI:&amp;nbsp;&lt;br&gt;1.文档幻觉评估&lt;div&gt;&lt;span style=&quot;background-color: light-dark(rgb(204, 229, 255), rgb(24, 46, 68)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2. 根据知识库生成测分&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="17.903225806451616" width="107.6923076923077" x="53.644970414201225" y="280" as="geometry" />
+        <mxCell id="eD5rRKDE6UyOsphLuvNW-27" edge="1" parent="1" source="hzDErF2p9qC1wll7qmAn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="eD5rRKDE6UyOsphLuvNW-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hzDErF2p9qC1wll7qmAn-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="测试case" vertex="1">
           <mxGeometry height="35.80645161290323" width="99.40828402366864" x="136.4852071005917" y="534.5964516129033" as="geometry" />
@@ -68,7 +66,15 @@
             <mxPoint x="343.58579881656806" y="357.5806451612903" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hzDErF2p9qC1wll7qmAn-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CR 结论拉齐, 爆炸半径分析" vertex="1">
+        <mxCell id="eD5rRKDE6UyOsphLuvNW-28" edge="1" parent="1" source="hzDErF2p9qC1wll7qmAn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="eD5rRKDE6UyOsphLuvNW-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="423" />
+              <mxPoint x="400" y="642" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hzDErF2p9qC1wll7qmAn-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CR 结论拉齐&lt;br&gt;爆炸半径分析" vertex="1">
           <mxGeometry height="35.80645161290323" width="99.40828402366864" x="293.88165680473367" y="405.3225806451613" as="geometry" />
         </mxCell>
         <mxCell id="hzDErF2p9qC1wll7qmAn-19" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=#CCE5FF;" value="AI: CR" vertex="1">
@@ -131,6 +137,12 @@
         </mxCell>
         <mxCell id="eD5rRKDE6UyOsphLuvNW-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;bug 数据, 测试日报&lt;/span&gt;" vertex="1">
           <mxGeometry height="55.89" width="143.87" x="636.13" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="eD5rRKDE6UyOsphLuvNW-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;链路级别自动化&lt;/span&gt;" vertex="1">
+          <mxGeometry height="55.89" width="143.87" x="460" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="eD5rRKDE6UyOsphLuvNW-25" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=#CCE5FF;" value="&lt;span style=&quot;&quot;&gt;AI: case 生成&lt;/span&gt;" vertex="1">
+          <mxGeometry height="17.903225806451616" width="107.6923076923077" x="312.11" y="655.89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
